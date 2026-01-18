@@ -4,7 +4,7 @@ A Data science project on Predicting Students' dropout using Machine Learning cl
 ### Introduction ###
 The goal of this project is to develop a predictive model using machine learning classification algorithms to identify students who are likely to drop out. By leveraging data on student demographics, academic performance, socio-economic factors, and other relevant variables, the aim is to build a robust predictive model that can effectively forecast the likelihood of students dropping out. 
 
-The data gathered are from both internal and external sources, pulling information from different institutions. This data was drawn from various databases within universities and colleges. It covers student records spanning from the academic year 2008/2009 to 2018/2019.
+The data gathered are from both internal and external sources, pulling information from different institutions. This data was drawn from various databases within universities and colleges. It covers student records spanning from the academic year.
 
 This model can then be used by educational institutions to allocate resources, implement early intervention strategies, and support at-risk students.
 
